@@ -119,7 +119,7 @@ The tests implement edge, fuzz, and invariants for these flows—see `test/OnCha
 
 2. Clone repository (example):
 
-   - `git clone <this-repo-url>`
+   - `https://github.com/mishraji874/On-Chain-Blackjack-Smart-Contract.git`
 
 3. Install dependencies (if using submodules):
 
